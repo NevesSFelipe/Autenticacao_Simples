@@ -1,4 +1,4 @@
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/NevesSFelipe/Autenticacao_Simples/blob/master/README/img/capa_readme.jpeg)
 
 Projeto desenvolvido com o objetivo de treinar meus conhecimentos em PHP com PDO e MYSQL. 
 
